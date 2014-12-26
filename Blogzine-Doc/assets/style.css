@@ -1,0 +1,52 @@
+/* Document Style */
+body
+{
+    background: #f2f2f2;
+    color: #636467;
+}
+.container
+{
+	background: #ffffff;
+	padding: 20px;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    margin-bottom: 20px;
+    width: 60%;
+}
+.top-bar
+{
+    background: url('images/top-bar.png') repeat;
+    height: 2px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+hr
+{
+    background: none;
+    clear: both;
+    float: none;
+    width: 100%;
+    height: 0px;
+    border: 1px dashed #ccc;
+}
+.logo
+{
+	margin-top: 20px;
+}
+.img
+{
+	width: auto;
+	max-width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 5px;
+	border: 1px solid #eee;
+}
+.num 
+{
+	font-size: 100%;
+	list-style-type: decimal;
+}
